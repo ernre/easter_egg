@@ -8,7 +8,7 @@ def convert_to_ascii(message):
 def send_message(ascii_message):
     print("Prenses bekletiliyor, biraz sabredin...")
     time.sleep(5) 
-    print("Mesaj prensese iletildi!")
+    print("Mesaj prensese iletildi! yukarıya kaydırarak mesajın tamamını görebilirsiniz")
     print(ascii_message)
 
 def convert_to_string(ascii_numbers):
